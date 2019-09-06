@@ -1,0 +1,38 @@
+
+
+body{background: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png)}
+.CONTACT{background-image:url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-repeat:no-repeat;
+    height: 300px;
+    
+    }
+/* .JOLI{display: flex;
+    justify-content: center;} */
+    
+    .images1{display :flex;
+    justify-content: space-around;
+        margin: 10px;
+}
+.but button{
+position: absolute;
+display: none;
+}
+.but{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.white{color: white;
+}
+a{color:red}
+.nav-link{color:white!important;
+    font-weight: bold;
+
+}
+.nav-link:hover{color: red!important;}
+.navbar-nav{display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%
+}

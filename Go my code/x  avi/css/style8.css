@@ -1,0 +1,40 @@
+.items{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+BODY{background-image:Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    background-repeat:no repeat;
+    background-size:cover
+    }
+    .fifa{display:flex;
+    justify-content:space-around}
+    .miami{display:flex;
+    justify-content:space-around;
+color: white; }
+.but button{
+    position: absolute;
+    display: none;
+    }
+    .but{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .nav-link{color:white!important;
+        font-weight: bold;
+
+}
+.nav-link:hover{color: red!important;}
+
+.navbar-nav{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center;
+    width: 100%
+}
